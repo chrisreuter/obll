@@ -1,0 +1,61 @@
+Title: About us
+
+----
+
+Date: 
+
+----
+
+Displaydate: 0
+
+----
+
+Tags: 
+
+----
+
+Video: 
+
+----
+
+Videostill: 
+
+----
+
+Home: 0
+
+----
+
+Sticky: 0
+
+----
+
+Description: ## Wer steckt hinter OBLL?
+
+----
+
+Text: 
+
+(blocks:01 size:halves)
+
+## Sie wollen mehr erfahren? {#heading}
+Senden Sie mir:
+* eine E-Mail: (email: christireuter@gmail.com)
+* eine Nachricht auf Twitter: (twitter: christiareuter) oder
+* einen Kommentar s.u.
+
+----
+
+Author: 
+
+----
+
+Disqus: 1
+
+----
+
+Url-key: 
+
+----
+
+Share: 

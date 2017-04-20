@@ -1,0 +1,53 @@
+Title: Impressum
+
+----
+
+Url-key: 
+
+----
+
+Date: 
+
+----
+
+Displaydate: 0
+
+----
+
+Tags: 
+
+----
+
+Video: 
+
+----
+
+Videostill: 
+
+----
+
+Home: 0
+
+----
+
+Sticky: 0
+
+----
+
+Description: 
+
+----
+
+Text: © Das Design dieser Webseite, *BoF Theme*  von (link:http://www.coko.nl text:coko.nl), und die Software (link: http://getkirby.com/ popup:yes text:Kirby CMS) unterliegen dem Copyright.
+
+----
+
+Author: 
+
+----
+
+Share: 
+
+----
+
+Disqus: 0

@@ -1,0 +1,67 @@
+Title: What is blended learning?
+
+----
+
+Url-key: what-is-blended-learning
+
+----
+
+Date: 
+
+----
+
+Displaydate: 0
+
+----
+
+Tags: definition,types of learning
+
+----
+
+Video: 
+
+----
+
+Videostill: 
+
+----
+
+Home: 1
+
+----
+
+Sticky: 0
+
+----
+
+Description: a short definition
+
+----
+
+Text: 
+
+| Short definition  | 
+| ------------------------------------- | 
+| "Blended learning" is the combination of e-learning and classroom learning with the physical co-presence of teacher and other students.  [^1] |
+
+
+***
+[^1]: Derived from (link: http://www.learningspaces.org/papers/Defining_Blended_Learning_NF.pdf text: Report: Defining Blended Learning, Norm Friesen, August 2012)
+
+See also: 
+- http://clive-shepherd.blogspot.de/2008/07/so-what-is-blended-learning.html
+- http://www.learningspaces.org/papers/Defining_Blended_Learning_NF.pdf
+- http://www.kineo.com/m/0/blended-learning-today-2013.pdf
+- http://files.eric.ed.gov/fulltext/ED509636.pdf
+
+----
+
+Author: 
+
+----
+
+Share: 
+
+----
+
+Disqus: 0

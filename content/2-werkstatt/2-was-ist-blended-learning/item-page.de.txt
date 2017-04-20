@@ -1,0 +1,65 @@
+Title: Was ist Blended Learning?
+
+----
+
+Url-key: 
+
+----
+
+Date: 
+
+----
+
+Displaydate: 0
+
+----
+
+Tags: hybride-Lernsysteme,Definition,Blended Learning
+
+----
+
+Video: 
+
+----
+
+Videostill: 
+
+----
+
+Home: 1
+
+----
+
+Sticky: 0
+
+----
+
+Description: eine Definition
+
+----
+
+Text: 
+
+| Kurzversion  | 
+| ------------------------------------- | 
+| Mit Blended Learning bezeichnen wir die Verzahnung von Präsenz-Lernen und E-Learning. |
+
+
+***
+Siehe auch: 
+- http://clive-shepherd.blogspot.de/2008/07/so-what-is-blended-learning.html
+- http://www.learningspaces.org/papers/Defining_Blended_Learning_NF.pdf
+- http://www.kineo.com/m/0/blended-learning-today-2013.pdf
+- http://files.eric.ed.gov/fulltext/ED509636.pdf
+
+----
+
+Author: 
+
+----
+
+Share: 
+
+----
+
+Disqus: 1

@@ -1,0 +1,64 @@
+Title: Kontakt
+
+----
+
+Description: 
+
+----
+
+Text: 
+
+**Am besten erreichen Sie mich per E-Mail oder Twitter**
+E-Mail: (email: christireuter@gmail.com)
+Twitter: (twitter: christiareuter) 
+
+## Deutschland
+<div class="unstyled" markdown="1">
+- Christian Reuter
+- Brabeckstr. 19
+- D-30559 Hannover
+</div>
+
+----
+
+Googlemap: 0
+
+----
+
+Mapaddress: 
+
+----
+
+Mappostalcode: 
+
+----
+
+Mapcity: 
+
+----
+
+Contactform: 1
+
+----
+
+Formheading: Fragen oder Anmerkungen?
+
+----
+
+Contactto: christireuter@gmail.com
+
+----
+
+Contactfrom: christireuter@gmail.com
+
+----
+
+Sendmessage: 
+
+## Vielen Dank!
+
+Sie erhalten in Kürze eine Antwort.
+
+----
+
+Url-key: 

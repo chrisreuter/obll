@@ -1,0 +1,5 @@
+Title: Author Name
+
+----
+
+Text: **Edit this: content › authors › 01-author-name.** Short author's bio here. Lorem *ipsum dolor* sit amet, consectetur adipisicing elit. Repudiandae aspernatur ex, ipsa quod beatae aliquid ipsam.

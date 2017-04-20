@@ -1,0 +1,17 @@
+Title: Werkstatt
+
+----
+
+Description: Hier stelle ich Thesen, Beobachtungen, Projekte zur Diksussion.
+
+----
+
+Pagination: 
+
+----
+
+Url-key: 
+
+----
+
+View: 1

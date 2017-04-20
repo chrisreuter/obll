@@ -1,0 +1,157 @@
+Title: Was sind offene Lern-Tools?
+
+----
+
+Url-key: 
+
+----
+
+Date: 2017-04-19
+
+----
+
+Displaydate: 1
+
+----
+
+Tags: digitale-Bildung,digitale-Werkzeuge,Auswahlkriterien,offen
+
+----
+
+Video: 
+
+----
+
+Videostill: 
+
+----
+
+Home: 1
+
+----
+
+Sticky: 0
+
+----
+
+Description: Kriterien zur Auswahl und Ordnung "offener" Lern-Software
+
+----
+
+Text: 
+
+(image: open-learning-tool-v1.png class:shadow caption: Erstellt von Christian Reuter am  27.04.2014 - : http://www.xmind.net/m/w4jw)
+
+
+***
+
+## A. Why openness matters?
+In a few words. While searching better tools for learning and teaching I discovered the power of open software. That finding led me to the following questions:
+- What exactly is covered by the term "openness"?
+- What are the other criteria to choose a digital learning tool? 
+- How are these criteria related to each other? 
+- How can they all be put in a common framework?
+
+This article suggests to use "openness" in the larger sense, as a set of criteria, to classify and select learning tools.
+
+***
+
+## How we define "learning tool"
+A learning tool can be a web or computer based software or mobile app. To put it in other terms, it's a piece of software used for the purpose of teaching or learning . For the sake of simplification we call it tool or software.  Our research question can now be put into simple terms: How open is tool x?
+
+## Openness in the strict sense
+In a strict sense openness is generally defined referring to:
+### A. Legal aspects
+i.e. the user license attributed to tool x. This legal aspect of openness answers the question to what extend the user has the permission to use or even transform a given software and/or the media that might be generated with it. This aspect is largely covered in the open software debate and more recently in the OER debate (open educational resources and creative commons). 
+
+The right to use and transform a given tool is a key criteria to choose and improve it. But there are more barriers to use a software. That's why we suggest a wider definition of openness.
+
+## Openness in a wider sense
+In the wider sense openness can be defined in relation to:
+### B. Technical aspects of tool x
+i.e. the software properties of tool x and the media that might be used or produced with
+### C. User needs & constraints
+other aspects than those mentionned above, related to user's knowledge, skills and financial capacity.
+
+***
+## Dimensions of openness
+
+### A. License
+The openness of a software depends on the user license that comes with it. The more user rights a licence attributes the more open it is. Some of the best known open licences are the (link: https://choosealicense.com/licenses/mit/ text: MIT License) and the (link: https://choosealicense.com/licenses/gpl-3.0/ text: GNU GPL), the GNU General Public License. [^1]
+
+Instead of drawning in the deep waters of legal debates let's break licences down to practical aspects of software. Depending on the licence, tool x provides more or less:
+
+#### 1.  Auditability
+The "openness" of source code, i.e. the possibility of users to go behind the scenes and read the source code, in order to spot bugs and potential improvements.
+#### 2. Fixability
+Comes with above, the possibility of to repair code and improve it.
+#### 3. Customizability
+The possibility to adapt the source code or content to specific user needs.
+#### 4. Sharability
+The possibility to spread the improved and tailor-made version to other users.
+
+<div class="table-left" markdown="1">
+
+| To sum up  | 
+| ------------------------------------- | 
+| In the strict sense, a tool is **open**, means it is **audible**, **fixable**, **customizable** and **sharable**. |
+
+</div>
+
+***
+
+### B. Technical aspects
+#### 5. Hardware/OS/internet dependency
+- On which device, operatings system and version does your tool run on?
+- What are the hardware, software, network requirements?
+  - Computer / tablet / smartphone?
+ - Windows / Apple OSX / iOS / Android / Linux?
+ - works offline / requires internet access
+ 
+| To sum up  | 
+| ------------------------------------- | 
+| In the wider sense, a tool is **open** to the extent that it is **not dependent** on a certain hardware or software configuration. The larger the scope of devices and OS it operates on, the opener it is. |
+
+#### 6. Network capacity
+The capacity of a software to link to other users, devices, software in the same classroom or worldwide via internet.
+
+#### 7. Interoperability
+Capability of different programs to exchange data via a common set of exchange formats, to read and write the same file formats, and to use the same protocols.
+
+***
+
+### C. User needs & constraints
+
+#### 8. Versatility
+Fact that the tool has a broad range of uses.
+
+
+#### 9. Usability
+Ease of use and learnability of the software.
+
+#### 10. Price
+- Trial version
+- Trial period
+
+| To sum up  | 
+| ------------------------------------- | 
+| In the wider sense, a software is more **open**, the **lower the price**. |
+
+***
+1. Version 0.1: 27.04.2014 http://www.xmind.net/m/w4jw
+2. Version 0.2: 19.04.2017
+3. Last update: 19.04.2017
+
+[^1]: Find more on different software licenses (link: https://choosealicense.com/ text: choosealicense.com)
+
+----
+
+Author: 
+
+----
+
+Share: 
+
+----
+
+Disqus: 1

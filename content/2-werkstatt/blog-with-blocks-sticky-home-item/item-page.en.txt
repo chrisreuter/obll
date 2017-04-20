@@ -1,0 +1,76 @@
+Title: Blog with Blocks, sticky home item
+
+----
+
+Date: 2014-07-28
+
+----
+
+Displaydate: 1
+
+----
+
+Tags: tag-b
+
+----
+
+Video: 
+
+----
+
+Videostill: 
+
+----
+
+Home: 0
+
+----
+
+Sticky: 0
+
+----
+
+Description: **Edit this: content › 02-blog › 02-blog-with-blocks › item-page.txt.** Short introduction here, first 155 characters are used for Meta Description also.
+
+----
+
+Text: 
+
+[1]: http://example.com/ (Title 1)
+[2]: http://example.com/ (Title 2)
+
+## Heading 2 {#heading-2}
+Lorem ipsum *dolor* sit amet, consectetur adipisicing elit. Blanditiis **animi** itaque exercitationem, nostrum possimus? Fuga doloremque, (link:http://getkirby.com/blog/text-formatting-101 popup:yes text:Kirbytext) ad incidunt quo consectetur voluptatum velit ullam nihil.
+
+(blocks:01  size:halves class:shadow border lightbox:yes)
+
+## Second heading 2 {#second-heading-2}
+Lorem ipsum dolor sit amet, consectetur [^1] adipisicing elit. Deleniti voluptatum, ipsum, cumque quos amet maxime possimus.
+
+-  Lorem ipsum dolor sit amet [link text][1]
+-  Deleniti voluptatum ipsum [another link][2]
+-  Esse quae, aliquid reiciendis
+
+### Heading 3 {#heading-3}
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime possimus veritatis perspiciatis illum. Iusto odit aspernatur cupiditate iste.
+
+#### Heading 4 {#heading-4}
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora dolor voluptatem similique.
+
+[^1]: The footnote
+
+----
+
+Author: Author name
+
+----
+
+Share: email, googleplus, twitter
+
+----
+
+Disqus: 0
+
+----
+
+Url-key: 
